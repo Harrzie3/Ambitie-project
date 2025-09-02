@@ -1,14 +1,10 @@
 # Functional Design Document
-A web-app sharing projects.
+creative webshop
+
 
 ## Functional requirements
 
-1. Users can register/login.
-2. Users can post a project with photos, descriptions and a GitHub link.
-3. Users can add tags to their posts.
-4. Users can see a timeline of all projects that are posted.
-5. Users can filter based on specific tags.
-6. All posts are stored online.
+
 
 ## Non-functional requirements
 
